@@ -22,13 +22,13 @@ The basic aim of this project is to built basic MVC based restful APIs.
 Clone the project through:
 
 ```bash
-git clone https://github.com/AbdullahDev0/nodejs-authentication-authorization-mvc.git
+git clone https://github.com/AbdullahDev0/NodeJS-MVC.git
 ```
 
 Install project with npm
 
 ```bash
-  cd nodejs-authentication-authorization-mvc
+  cd NodeJS-MVC
   npm Install
 ```
 
